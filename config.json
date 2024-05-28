@@ -1,0 +1,12 @@
+{
+    "booking_url": "https://bookings.doc.govt.nz/web/Facilities/SearchViewGreatWalk.aspx?PlaceId=873",
+    "desired_date": "2024-06-15",
+    "number_of_people": 4,
+    "desired_time_slot": "10:00 AM",
+    "user_details": {
+        "first_name": "John",
+        "last_name": "Smith",
+        "email": "john.smith@example.com",
+        "phone": "123-456-7890"
+    }
+}
